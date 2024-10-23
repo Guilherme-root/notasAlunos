@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "BVIG2pxdTA8=",
+  "success": true,
+  "projectFilePath": "/home/guilherme/Documentos/www/csharp/learnProjects/notasAlunos/notasAlunos.csproj",
+  "expectedPackageFiles": [
+    "/home/guilherme/.nuget/packages/microsoft.aspnetcore.app.ref/8.0.10/microsoft.aspnetcore.app.ref.8.0.10.nupkg.sha512"
+  ],
+  "logs": []
+}

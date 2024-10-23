@@ -1,0 +1,14 @@
+/home/guilherme/Documentos/www/csharp/learnProjects/notasAlunos/bin/Debug/net8.0/notasAlunos
+/home/guilherme/Documentos/www/csharp/learnProjects/notasAlunos/bin/Debug/net8.0/notasAlunos.deps.json
+/home/guilherme/Documentos/www/csharp/learnProjects/notasAlunos/bin/Debug/net8.0/notasAlunos.runtimeconfig.json
+/home/guilherme/Documentos/www/csharp/learnProjects/notasAlunos/bin/Debug/net8.0/notasAlunos.dll
+/home/guilherme/Documentos/www/csharp/learnProjects/notasAlunos/bin/Debug/net8.0/notasAlunos.pdb
+/home/guilherme/Documentos/www/csharp/learnProjects/notasAlunos/obj/Debug/net8.0/notasAlunos.GeneratedMSBuildEditorConfig.editorconfig
+/home/guilherme/Documentos/www/csharp/learnProjects/notasAlunos/obj/Debug/net8.0/notasAlunos.AssemblyInfoInputs.cache
+/home/guilherme/Documentos/www/csharp/learnProjects/notasAlunos/obj/Debug/net8.0/notasAlunos.AssemblyInfo.cs
+/home/guilherme/Documentos/www/csharp/learnProjects/notasAlunos/obj/Debug/net8.0/notasAlunos.csproj.CoreCompileInputs.cache
+/home/guilherme/Documentos/www/csharp/learnProjects/notasAlunos/obj/Debug/net8.0/notasAlunos.dll
+/home/guilherme/Documentos/www/csharp/learnProjects/notasAlunos/obj/Debug/net8.0/refint/notasAlunos.dll
+/home/guilherme/Documentos/www/csharp/learnProjects/notasAlunos/obj/Debug/net8.0/notasAlunos.pdb
+/home/guilherme/Documentos/www/csharp/learnProjects/notasAlunos/obj/Debug/net8.0/notasAlunos.genruntimeconfig.cache
+/home/guilherme/Documentos/www/csharp/learnProjects/notasAlunos/obj/Debug/net8.0/ref/notasAlunos.dll
